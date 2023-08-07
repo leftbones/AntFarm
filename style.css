@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+
+* { font-family: 'Source Code Pro', sans-serif; }
+
+body {
+    background-color: #222323;
+    color: #f0f6f0;
+}
+
+p { line-height: 0.5rem; }
+
+a:hover { cursor: pointer; }
+
+#populationBox { padding-bottom: 10px; }
+
+#colonyPanel, #tasksPanel, #upgradesPanel { padding-bottom: 10px; }
+
+#statsPanel > p { font-size: 0.8rem; }
